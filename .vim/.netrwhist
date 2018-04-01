@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/edensong/framework/xhx_mini/server/trunk/online/config'
+let g:netrw_dirhist_2='/Users/edensong/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_3='/usr/local/var/pyenv'
+let g:netrw_dirhist_4='/usr/local/var/pyenv/shims'
+let g:netrw_dirhist_5='/usr/local/var/pyenv'
+let g:netrw_dirhist_6='/usr/local/var/pyenv/versions'
+let g:netrw_dirhist_7='/Users/edensong/.vim/bundle/YouCompleteMe/autoload'
+let g:netrw_dirhist_8='/Users/edensong/tmp/vim/bundle/sparkup'
