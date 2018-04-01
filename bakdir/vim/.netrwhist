@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/eden/dev/server/trunk/inline-api/config'
+let g:netrw_dirhist_2='/etc/apache2'
+let g:netrw_dirhist_3='/opt/eden/test/protobuf/node_modules'
+let g:netrw_dirhist_4='/opt/eden/test/protobuf/node_modules/npm'
+let g:netrw_dirhist_5='/opt/eden/test/protobuf/node_modules/npm/lib'
